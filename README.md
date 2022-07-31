@@ -1,6 +1,10 @@
-# Pokedex
+# Pokédex
+
+Consumindo a API PokemonV2 para construção de uma Pokédex.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+
+Base Url: https://www.youtube.com/watch?v=UhOcUII_5PU&ab_channel=VidaFullStack.
 
 ## Development server
 
